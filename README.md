@@ -30,9 +30,17 @@
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l20660042/l20660042/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l20660042/l20660042/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/l20660042/l20660042/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/L20660042/L20660042/output/dist/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/l20660042/count.svg?"  />
+</div>
 
 
 ###
